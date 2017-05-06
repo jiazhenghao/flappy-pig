@@ -1,12 +1,4 @@
-﻿/**
- * 原生javascript实现的《Flappy Pig》v0.1.0
- * =======================================
- * @author keenwon
- * Full source at http://keenwon.com
- */
-
-
-var flappy = (function (self) {
+﻿var flappy = (function (self) {
     'use strict';
 
     var option = self.option,

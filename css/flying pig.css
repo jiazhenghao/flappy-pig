@@ -55,3 +55,6 @@
 .end { 
         display: none; 
 }
+h1 {
+        float: right;
+}
