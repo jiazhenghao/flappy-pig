@@ -33,7 +33,7 @@
         //柱子宽度
         pillarWidth: 45,
         //柱子上下间隔高度
-        pillarGapY: 108,
+        pillarGapY: 128,
         //柱子左右间隔宽度
         pillarGapX: 250,
         //上柱子的基础定位值（就是top值，和css写法有关）
